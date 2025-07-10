@@ -5,8 +5,9 @@ import { AiFillBehanceCircle } from "react-icons/ai";
 const MainContent = () => {
   return (
     <div className="flex flex-col justify-center items-center text-center w-full md:w-3/5">
+      hello
       <Image
-        src="/images/home.webp"
+        src="/images/main.webp"
         alt="Character"
         priority
         className="w-3/4 transform transition duration-500 hover:scale-110"
